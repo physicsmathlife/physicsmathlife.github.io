@@ -1,2 +1,2 @@
 # physicsmathlife.github.io
-Physics lis life.
+Physics is life.
